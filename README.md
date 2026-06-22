@@ -5,4 +5,6 @@ Matric Number: 241420079-5
 Group: Cyberjaya  
 Course: SMM30503 Web Design and Development
 
-This repository contains the HTML and CSS personal website prepared for Individual Assignment 1.
+This folder contains a new HTML and CSS personal website prepared for Individual Assignment 1. It is separate from other assignment files.
+
+Open `index.html` in a browser to view the website.
